@@ -32,10 +32,15 @@
 
 project-2-auth-app/
 ├── index.html # Главная (вход/регистрация)
+
 ├── register.html # Форма регистрации
+
 ├── dashboard.html # Личный кабинет
+
 ├── style.css # Все стили (фон, карточки, формы)
+
 ├── script.js # Логика: регистрация, localStorage, выход
+
 └── README.md # Описание проекта
 
 ## 🛠️ Технологии
